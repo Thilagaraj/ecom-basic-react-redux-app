@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component just rendering 1`] = `<product />`;
+
+exports[`component rendering with product props 1`] = `
+<product
+  details={
+    Object {
+      "category": "apple",
+      "description": "dolor eiusmod sint duis culpa non aute enim enim Lorem eu nisi non aliquip exercitation reprehenderit laboris ipsum qui enim nisi elit ullamco qui aliqua veniam adipisicing dolor labore excepteur enim aliqua veniam ipsum id enim do ex nisi proident",
+      "id": "5b6eb27314c4ed27570b601e",
+      "isActive": true,
+      "picture": "http://placehold.it/250x250",
+      "price": "$2,752.35",
+      "tags": Array [
+        "minim",
+        "laboris",
+        "ipsum",
+        "non",
+        "dolore",
+        "ipsum",
+        "duis",
+      ],
+      "title": "Enid Vazquez",
+    }
+  }
+/>
+`;
